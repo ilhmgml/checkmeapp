@@ -1,0 +1,193 @@
+{
+	"doctors": {
+		"DOCID1": {
+			"fname": "Melanie",
+			"lname": "Omar",
+			"email": "melanie@g.com",
+			"password": "password",
+			"mobile": "09013456789",
+			"address": {
+				"id" : "ADDID1",
+				"add" : "Marawi City, LDS"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID1",
+				"type" : "Radiologist"
+			}
+		},
+		"DOCID2": {
+			"fname": "Calsoum",
+			"lname": "Mala",
+			"email": "calsoum@g.com",
+			"password": "password",
+			"mobile": "09023456789",
+			"address": {
+				"id" : "ADDID1",
+				"add" : "Marawi City, LDS"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID1",
+				"type" : "Radiologist"
+			}
+		},
+		"DOCID3": {
+			"fname": "Ainah",
+			"lname": "Anuar",
+			"email": "ainah@g.com",
+			"password": "password",
+			"mobile": "09033456789",
+			"address": {
+				"id" : "ADDID1",
+				"add" : "Marawi City, LDS"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID1",
+				"type" : "Radiologist"
+			}
+		},
+		"DOCID4": {
+			"fname": "Habebah",
+			"lname": "Basher",
+			"email": "melanie@g.com",
+			"password": "password",
+			"mobile": "09043456789",
+			"address": {
+				"id" : "ADDID2",
+				"add" : "Iligan City, LDN"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID2",
+				"type" : "Cardiologist"
+			}
+		},
+		"DOCID5": {
+			"fname": "Amar",
+			"lname": "Marohomsalic",
+			"email": "amare@g.com",
+			"password": "password",
+			"mobile": "09053456789",
+			"address": {
+				"id" : "ADDID2",
+				"add" : "Iligan City, LDN"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID2",
+				"type" : "Cardiologist"
+			}
+		},
+		"DOCID6": {
+			"fname": "Ryan",
+			"lname": "Basher",
+			"email": "melanie@g.com",
+			"password": "password",
+			"mobile": "09063456789",
+			"address": {
+				"id" : "ADDID1",
+				"add" : "Marawi City, LDS"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID2",
+				"type" : "Cardiologist"
+			}
+		},
+		"DOCID7": {
+			"fname": "Amerah",
+			"lname": "Dilinogun",
+			"email": "amerah@g.com",
+			"password": "password",
+			"mobile": "09073456789",
+			"address": {
+				"id" : "ADDID1",
+				"add" : "Marantao, LDS"
+			}
+		},
+		"DOCID8": {
+			"fname": "Sultan",
+			"lname": "Basher",
+			"email": "melanie@g.com",
+			"password": "password",
+			"mobile": "09083456789",
+			"address": {
+				"id" : "ADDID1",
+				"add" : "Marantao, LDS"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID4",
+				"type" : "Pediatrician"
+			}
+		},
+		"DOCID9": {
+			"fname": "Ling",
+			"lname": "Mababaya",
+			"email": "ling@g.com",
+			"password": "password",
+			"mobile": "09093456789",
+			"address": {
+				"id" : "ADDID2",
+				"add" : "Baloi, LDN"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID4",
+				"type" : "Pediatrician"
+			}
+		},
+		"DOCID10": {
+			"fname": "Basim",
+			"lname": "Mangigal",
+			"email": "basim@g.com",
+			"password": "password",
+			"mobile": "09010456789",
+			"address": {
+				"id" : "ADDID1",
+				"add" : "Balindong, LDS"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID3",
+				"type" : "Dentis"
+			}
+		},
+		"DOCID11": {
+			"fname": "Sittie Haya",
+			"lname": "Mikunug",
+			"email": "haya@g.com",
+			"password": "password",
+			"mobile": "09011456789",
+			"address": {
+				"id" : "ADDID2",
+				"add" : "Baloi, LDN"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID5",
+				"type" : "Nutritionist"
+			}
+		},
+		"DOCID12": {
+			"fname": "Adna",
+			"lname": "Camama",
+			"email": "adna@g.com",
+			"password": "password",
+			"mobile": "09012456789",
+			"address": {
+				"id" : "ADDID2",
+				"add" : "Iligan City, LDS"
+			},
+			"doctype" : {
+				"id" : "DOCTYPEID6",
+				"type" : "Psychologist"
+			}
+		}
+	},
+  "users" : {
+    "25q8oiONNfT4TbNOy8ahOvYo8463" : {
+      "address" : {
+        "ADDID1" : "Marawi City"
+      },
+      "email" : "amy@g.com",
+      "fname" : "Amy",
+      "lname" : "Fowler",
+      "role" : {
+        "ROLEID2" : "user"
+      }
+    }
+  }
+}
